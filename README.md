@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ywu666
+- 👀 I’m interested in coding.
+- 🌱 I’m currently study at University of Auckland. (PartIV Software Engineering)
+- 📫 How to reach me 
+  -  Email: ywu660@aucklanduni.ac.nz
